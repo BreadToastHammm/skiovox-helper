@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "version": "2.3.1",
-  "name": "Skiovox Helper",
-  "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
+  "name": "Bread Helper",
+  "description": "A helper for the Bread exploit -- read more at https://www.youtube.com/watch?v=7pt3nZCHHeg",
   "icons": {
     "128": "icon.png"
   },
